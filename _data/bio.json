@@ -19,21 +19,6 @@
         "network": "github",
         "username": "Jgomes8",
         "url": "http://github.com/Jgomes8"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -54,13 +39,7 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-      ]
-    },
+  "skills": 
     {
       "name": "Toolsets/OS",
       "level": "",
@@ -99,51 +78,10 @@
       "website": "",
       "startDate": "2016-10-15",
       "endDate": "2018-08-01",
-      "summary": "",
+      "summary": "Managed sales floor, maintained store stock, and aided in the training of new employees",
       "highlights": [
         ""
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
